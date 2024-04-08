@@ -1,0 +1,19 @@
+{
+  "name": "k2gkhanif-cli-currency-conversion",
+  "version": "1.0.0",
+  "description": "This is a CLI Currency Conversion Project.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Kashif Hanif",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
